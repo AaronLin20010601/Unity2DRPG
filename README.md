@@ -33,6 +33,9 @@ top -> dark leaves cover on the top of the map,only visible when walk into it
 Map destructible items :  
 There are bushes,barrels and crates on the map,when they get destroyed,they will have chance to drop coins,heart or stamina  
   
+Map :  
+There are 25 different areas,and each area have 1 to 3 portals connect to other areas  
+  
 Drops :  
 When map destructible items get destroyed or monsters get killed,there is a change for them to drop the following stuff  
 coins -> gain the amount of player coin  
