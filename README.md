@@ -2,8 +2,9 @@
 A simple 2D RPG make with unity 2D URP  
 ------------------------------------------------  
 Player controls :  
-Using keyboard wasd to move  
+Using keyboard W,A,S,D to move  
 Using space to dash and mouse left click to attack  
+Press F to show or hide the inventory  
   
 Player states :  
 health -> the health of player and the maximum is 4  
