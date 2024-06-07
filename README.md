@@ -22,6 +22,8 @@ slimes -> normal monster just move around the map with three different types -> 
 blue -> slime with the lowest health  
 green -> slime with medium health and spread poison around itself  
 purple -> slime with high amount of health  
+grape shooter -> monster with high amount of health that shoot grape to attack  
+ghost -> moster with medium health but have extremely strong attack ability that shoot lots of ghost fire  
   
 Landscape :  
 There are foreground,water,cosmetic and top elements on the map  
