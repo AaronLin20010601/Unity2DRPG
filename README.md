@@ -1,7 +1,7 @@
 # Unity2DRPG
 A simple 2D RPG make with unity 2D URP  
 ------------------------------------------------  
-Demo video google drive link :<https://drive.google.com/file/d/1BDy6cuGybPXmi0Mpr3lIaX_oKK_B4P9H/view?usp=drive_link>  
+Demo video google drive link : <https://drive.google.com/file/d/1BDy6cuGybPXmi0Mpr3lIaX_oKK_B4P9H/view?usp=drive_link>  
   
 Player controls :  
 Using keyboard W,A,S,D to move  
